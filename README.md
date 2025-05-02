@@ -30,7 +30,7 @@ This course is highly practical and hands-on.
   
 ## 📄 License & Credits
 - All coursework is ©️ University of Helsinki.
-- This repository is for **personal educational use** and follows the guidelines of the [Creative Commons BY-NC-SA 3.0].
+- This repository is for **personal educational use** and follows the guidelines of the [Creative Commons BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/).
 
 ## 🙌 Acknowledgements
 Thank you to the team behind **Full Stack Open**.
